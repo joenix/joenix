@@ -2,7 +2,7 @@
 
 I'm Joenix, a web developer. And author of [vue-scaff](http://vue-scaff,com/).
 
-![vue-scaff](http://oss.joenix.com/vue-scaff/vue-scaff-fox.png)
+![vue-scaff](http://oss.joenix.com/vue-scaff/vue-scaff-fox.png | width=360)
 
 ### Skills
 
