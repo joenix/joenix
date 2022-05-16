@@ -1,6 +1,6 @@
 ### Hi there! 😜
 
-I'm Joenix, a web developer. And author of [vue-scaff](http://vue-scaff,com/).
+I'm Joenix, a web developer. And author of [vue-scaff](http://vue-scaff.com/).
 
 <img alt="vue-saff" src="http://oss.joenix.com/vue-scaff/vue-scaff-fox.png" width="360" />
 
